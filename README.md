@@ -248,7 +248,7 @@ SELECT value, COUNT(*) AS num
 ```
 JOSM                   41 478
 Merkaartor 0.13        13 494
-http://www.bnhelp.cz"   7 188
+http://www.bnhelp.cz   7 188
 Merkaartor 0.12         5 242
 bing:ortofoto           4 563
 cuzk:km                 4 169
